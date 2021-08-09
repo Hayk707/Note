@@ -5,3 +5,4 @@ Note
 2.DESCRIPTION ... This function is meant for making notes whenever you need them
 3.COMMANDS
 $ ./Note.py or python3 Note.py:then thanks to this command your programm will work
+#You must download selected library sudo apt-get install python3-tk
